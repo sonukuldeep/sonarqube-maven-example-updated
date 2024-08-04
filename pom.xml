@@ -12,7 +12,7 @@
 
     <properties>
         <sonar.projectName>Test Sonar project</sonar.projectName>
-        <sonar.projectKey>Test Sonar key</sonar.projectKey>
+        <sonar.projectKey>TestSonarkey</sonar.projectKey>
     </properties>
          
     <dependencies>
