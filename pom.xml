@@ -10,6 +10,11 @@
 
     <name>Example of basic Maven project to integrate with SonarQube</name>
 
+    <properties>
+        <sonar.projectName>Test Sonar project</sonar.projectName>
+        <sonar.projectKey>Test Sonar key</sonar.projectKey>
+    </properties>
+         
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
